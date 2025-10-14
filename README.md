@@ -1,4 +1,4 @@
-# javascript-sdk for Buen Día Builders - Week 1 Assignment
+# javascript-sdk for Buen Día Builders - Week 1 Assignment 2
 
 This folder contains the code developed for the "Semana 1: Tarea 2 - Buen Día Builders" project using JavaScript. The scripts in this directory are intended to demonstrate basic operations such as creating accounts, checking balances, and sending payments through a simple SDK-like structure.
 
